@@ -45,6 +45,13 @@
     margin-top: 10px;
    
 }
+.links a:hover {
+  color: #FF305B;
+}
+
+.navbar {
+  transition: background-color 0.3s ease;
+}
 /* large */
 @media screen and (max-width:992px){
   .container{
